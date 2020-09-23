@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <zone id="1" name="测试区" debug="1">
+        <server id="3" name="测试服" flag="1" debug="1" status="1" ip="111.67.207.22" nip="111.67.207.22" port="8080"/>
+        <server id="10" name="测试服2" flag="1" debug="1" status="0" ip="111.67.207.22" nip="111.67.207.22" port="8080"/>
+   </zone>
+
+   <zone id="2" name="测试区" debug="1">
+        <server id="11" name="测试服3" flag="1" debug="1" status="0" ip="111.67.207.22" nip="192.168.1.101" port="8080"/>
+        <server id="12" name="测试服4" flag="1" debug="1" status="0" ip="111.67.207.22" nip="192.168.1.101" port="8080"/>
+   </zone>
+
+</root>
